@@ -1,1 +1,2 @@
-# crip_udp_messages
+# encryp_udp_messages
+Encrypted messages sent via UDP protocol
